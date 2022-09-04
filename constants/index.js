@@ -5,3 +5,4 @@ module.exports = {
   contractAddresses,
   abi,
 };
+// Deployed on localhost
